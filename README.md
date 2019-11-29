@@ -36,8 +36,8 @@
   <li>JQuery 18/18</li>
   <li>Sass 9/9</li>
   <li>React 47/47</li>
-  <li>Redux x/17</li>
-  <li>React and Redux x/10</li>
+  <li>Redux 17/17</li>
+  <li>React and Redux 10/10</li>
 </ul>
 
  <h3>Data Visualization Certification</h3>
