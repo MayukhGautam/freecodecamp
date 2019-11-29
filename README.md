@@ -43,7 +43,7 @@
  <h3>Data Visualization Certification</h3>
  
   <ul>
-  <li>D3 x/29</li>
+  <li>D3 29/29</li>
   <li>JSON API x/10</li>
   </ul>
   
