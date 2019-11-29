@@ -5,7 +5,7 @@
 <h3>Responsive web design</h3>
 
 <ul>
-  <li>Basic Html and Html5 28/28</li>
+  <li>Basic Html and Html5 **28/28**</li>
   <li>Basic Css 44/44</li>
   <li>Applied Visual Design 52/52</li>
   <li>Applied Accessibility 22/22</li>
@@ -44,7 +44,7 @@
  
   <ul>
   <li>D3 29/29</li>
-  <li>JSON API x/10</li>
+  <li>JSON API 10/10</li>
   </ul>
   
   <h3>API and Microservices Certification</h3>
