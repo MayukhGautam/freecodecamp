@@ -52,5 +52,5 @@
   <ul>
   <li>Npm <strong>10/10</strong></li>
   <li>Basic Node <strong>12/12</strong></li>
-  <li>MongoDB and Mongoose <strong>2/12</strong>   (Database stopped working after 2)</li>        
+  <li>MongoDB and Mongoose <strong>12/12</strong>   </li>        
   </ul>
