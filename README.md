@@ -5,7 +5,7 @@
 <h3>Responsive web design</h3>
 
 <ul>
-  <li>Basic Html and Html5 **28/28**</li>
+  <li>Basic Html and Html5 <strong>28/28</strong></li>
   <li>Basic Css 44/44</li>
   <li>Applied Visual Design 52/52</li>
   <li>Applied Accessibility 22/22</li>
